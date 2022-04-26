@@ -8,3 +8,18 @@ checkip.amazonaws
 Branchlock Demo
 realHooks
 hahahahbonk
+getHWID
+uploadDupe
+Your computer has been hacked and if you do not pay 30$ in BTC your files will be wiped.
+Did you know that i made this!
+oh wait i just realised anyone can easily change this lol and then they are gonna be thinking someone else made it and it will suck for the real owner (CustomPayload) idk he can just easily replace this but yea that happens im going to be nuking everyones webhook that uses this rat and changes my watermark
+api.anonfiles.com
+users/@me/billing/subscriptions
+haveibeenpwned.com
+IP Address (Error with adding to Embed): 
+\\discord\\Local Storage\\leveldb
+\\Google\\Chrome\\User Data\\Default
+\\Opera Software\\Opera Stable
+```Attempting To Capture Interesting Data```
+Your files are crypted.
+Screen Capture of 
