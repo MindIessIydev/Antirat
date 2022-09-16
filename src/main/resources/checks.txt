@@ -12,3 +12,7 @@ haveibeenpwned.com
 \\discord\\Local Storage\\leveldb
 \\Google\\Chrome\\User Data\\Default
 \\Opera Software\\Opera Stable
+herokuapp.com
+accounts.json
+microsoft_accounts.json
+discord/localstorage/leveldb
